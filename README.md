@@ -31,7 +31,7 @@
 - 编程语言: Python/Java/Scala/Golang
 - Linux相关: Docker/K8s/jekins/Zabbix/Nginx
 - 前端框架: HTML/CSS/JavaScript/HTML5/Ajax/Json/XML/React/Vue/Typescript/Node.js/MVVM 框架/NodeJS/Webpack/RollUp
--  后端框架：Spring/Springmvc/Springboot/MyBatis/MQ/Springcloud
+-  后端框架：Netty/Spring/Springmvc/Springboot/MyBatis/MQ/Springcloud
 /Dubbo/Zookeeper
 
 
