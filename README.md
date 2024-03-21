@@ -29,7 +29,7 @@
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 报表组件： FineBI/FineReport/QuickBI
 - 编程语言: Python/Java/Scala/Golang
-- Linux相关: Docker/K8s/jekins/Zabbix/
+- Linux相关: Docker/K8s/jekins/Zabbix/Nginx
 - 前端框架: HTML/CSS/JavaScript/HTML5/Ajax/Json/XML/React/Vue/Typescript/Node.js/MVVM 框架/NodeJS/Webpack/RollUp
 -  后端框架：Spring/Springmvc/Springboot/MyBatis/MQ/Springcloud
 /Dubbo/Zookeeper
