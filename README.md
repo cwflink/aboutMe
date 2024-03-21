@@ -24,11 +24,14 @@
 - ETL框架：Kettle/DataX/Canal/Maxwell/Otter
 - 大数据云产品：MaxCompute/EMR/MRS/DLF/Databricks/DLI/DLC
 - 数据分析： Hive/Spark/Flink
-- 数据库相关：Oracle/MySQL/Mongo/PgSQL/Hbase/Phoenix/Redis/Elasticsearch
+- 数据库相关：Oracle/MySQL/Mongo/PgSQL/Hbase/Phoenix/Redis/Elasticsearch/Clickhouse/Doris/Hudi/Druid/Kylin/Superset
 - 版本管理、文档和自动化部署工具：Svn/Git
-- 报表组件： FIneBI/QuickBI
+- 报表组件： FIneBI/FineReport/QuickBI
+- 编程语言: Python/Java/Scala/Golang
+- Linux相关: Docker/K8s/jekins
 -  后端框架：Spring/Springmvc/Springboot/MyBatis/MQ/Springcloud
 /Dubbo/Zookeeper
+
 
 # 工作经历
 
