@@ -24,7 +24,7 @@
 - ETL框架：Kettle/DataX/Canal/Maxwell/Otter
 - 大数据云产品：MaxCompute/EMR/MRS/DLF/Databricks/DLI/DLC
 - 大数据云产品: Oozie/Azkaban/DolphinScheduler/CDH6/Atlas/Grafana/Promethus/Apache Ranger/Sentry
-- 数据分析： Hadoop/Hive/SparkSQL/Impala/Spark/Flink
+- 数据分析： Hadoop/Hive/SparkSQL/Impala/Spark/Flink/Pandas/Numpy/PyFlink
 - 数据库相关：Oracle/MySQL/TiDB/OceanBase/Mongo/PgSQL/Hbase/Phoenix/Redis/TDengine/Elasticsearch/Clickhouse/Doris/Hudi/Druid/Kylin/Superset
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 报表组件： FineBI/FineReport/QuickBI
